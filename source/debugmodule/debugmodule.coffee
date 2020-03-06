@@ -9,6 +9,8 @@ debugmodule.modulesToDebug =
     unbreaker: true
     # configmodule: true
     # headermodule: true
-
+    sourceimagemodule: true
+    outputimagemodule: true
+    transformmodule:true
 
 export default debugmodule
